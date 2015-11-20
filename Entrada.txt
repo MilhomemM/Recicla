@@ -1,0 +1,3 @@
+plastico;plastico;plastico;plastico;plastico
+metal;metal;metal;metal;metal
+vidro;vidro;vidro;vidro;vidro
